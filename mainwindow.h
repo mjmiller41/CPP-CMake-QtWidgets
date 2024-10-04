@@ -1,4 +1,4 @@
-/* Copyright 2024, 1999 Michael Joseph Miller
+/* Copyright 2024 Michael Joseph Miller
 
 This file is part of ProjectName: #{project_name}.
 
